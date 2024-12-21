@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
 ## Contents
-- [Log - click here to see my progress](log.md)
-- [My Rules](rules.md)
-- [My Resources](resources.md)
+- [Log - click here to see my progress](Log.md)
+- [My Rules](Rules.md)
+- [My Resources](Resources.md)
