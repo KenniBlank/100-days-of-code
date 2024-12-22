@@ -12,7 +12,7 @@
 
 ### Day 001: December 12, 2024
 **Today's Progress**: Started to learn Rust from its documentation website. Reached Chapter 4: Ownership. Created note for it 420 lines long for now.
-Also started the book on algorithms: learned what NP-complete problem(travelling salesman problem), data structure, parallelism, etc is and why we require algorithms on this fast computer world. Later Implemented the insertion sort algorithm with rust which I got into a series of debugging after getting errors regarding negative usize data type. Read Up-to page 27.
+Also started the book on algorithms: learned what NP-complete problem(travelling salesman problem), data structure, parallelism, etc is and why we require algorithms on this fast computer world. Later Implemented the insertion sort algorithm with rust which I got into a series of debugging after getting errors regarding negative usize data type. Read Up-to page 27. All of my notes on the book is written in spiral notebook because it is easier for me.
 
 **Thoughts**: This is my second time starting rust. Before, I had to quit because I had other projects lined up that required my attention more (I feel like this is an excuse now because I could have spared thirty minutes). This time I plan to see it through. 
 This time, I have started the book on the algorithms in earnest because I need the knowledge to back me up. I need this knowledge.
