@@ -5,12 +5,12 @@
 
 **Thoughts**: ...
 
-### Day 0: December 22, 2024
+### Day 0: December 21, 2024
 **Today's Progress**: Joined the 100 Days of Code Challenge, got everything ready to start the challenge.
 
 **Thoughts**: [Why I started this challenge!](https://www.linkedin.com/posts/birajtiwari_biraj-tiwari-birajtwr-on-x-activity-7276226926287990785-oVTN?utm_source=share&utm_medium=member_desktop)
 
-### Day 001: December 23, 2024
+### Day 001: December 22, 2024
 **Today's Progress**: Started to learn Rust from its documentation website. Reached Chapter 4: Ownership. Created note for it 420 lines long for now.
 Also started the book on algorithms: learned what NP-complete problem(travelling salesman problem), data structure, parallelism, etc is and why we require algorithms on this fast computer world. Later Implemented the insertion sort algorithm with rust which I got into a series of debugging after getting errors regarding negative usize data type. Read Up-to page 27. All of my notes on the book is written in spiral notebook because it is easier for me.
 
@@ -18,7 +18,7 @@ Also started the book on algorithms: learned what NP-complete problem(travelling
 This time, I have started the book on the algorithms in earnest because I need the knowledge to back me up. I need this knowledge.
 Without AI debugging the code that runs on all other languages but Rust, is tough. It took time. This shows how dependent I had gotten with AI for debugging. Its good that I am leaving AI's for a while.
 
-### Day 2: December 24, 2024
+### Day 2: December 23, 2024
 **Today's Progress**: 
 - Learned why RAM has stack and heap! (Researched in stack exhange + reddit + medium)
 - Still learning about ownership in Rust, currently at reference and de-reference part of the book. 
@@ -30,6 +30,22 @@ Without AI debugging the code that runs on all other languages but Rust, is toug
 Answer: every thread has own stack which is cleared after execution but heap is shared across all execution.  Stack is fast because of LIFO: latest execution is always the one computed the first and cleared.
 
 I am slowly getting used to searching at stackoverflow for answers or writing my own question.
+
+### Day 3: December 24
+**Today's Progress**: Finally was able to implement the merge sort in rust after learning yesterday. Completed understanding rust's reference + borrow principles. Learned more on the time complexity of divide and conquer method of algorithms.
+
+**Thoughts**: The electricity was out for most of the day so I was able to do very little.
+
+### Day 4: December 25
+**Today's Progres**: Today was a lazy day. Didn't learn much. In rust, still on ownership: it turns out that the book by brown university is much much longer that actual rust's docs.
+Didn't touch the book on algorithm today due to holiday spirit 
+
+**Thoughts**: I am learning a lot but the implementation on rust is very tough. The docs on rust that I was reading turns out to be significantly longer that the actual docs. Going forward, I will be sticking to the longer book but that makes me wonder the speed. 
+Yesterday's got didn't seem to have been pushed to github so Oh shit...
+Next week, I am going to start the full stack challenge so as to continue learning web development along this track.
+Merry Christmas!
+
+> I will be starting the full stack on day 7.
 
 
 ## Contents
