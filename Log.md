@@ -47,6 +47,11 @@ Merry Christmas!
 
 > I will be starting the full stack on day 7.
 
+### Day 5: December 26
+**Today's Progress**: Today I was able to complete chapter 2 of algorithm book. In Rust finally past ch 4.2. Learned in depth about merge sort and learned Horner's rule for polynomial evaluation. Also learned about combining algorithms for the best result.
+
+**Thoughts**: Installed arch 5 times today yet not successful in restoring bluetooth or wifi or the audio server. Not going to change OS for the next 100 days for sure now. I am trying to implement merge + insertion sort, lets see tmr I guess.
+
 
 ## Contents
 - [Log - click here to see my progress](Log.md)
