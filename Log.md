@@ -52,6 +52,11 @@ Merry Christmas!
 
 **Thoughts**: Installed arch 5 times today yet not successful in restoring bluetooth or wifi or the audio server. Not going to change OS for the next 100 days for sure now. I am trying to implement merge + insertion sort, lets see tmr I guess.
 
+### Day 6: December 27
+**Today's Progres**: Today not a lot of progress, in rust still learning about ownership and borrowing. I am not goin to move past the topic until I have grasped it.
+In learning algorithms, I am learning notations right now.
+
+**Thoughts**: Not much actually, I am still researching my future down the road. Yo
 
 ## Contents
 - [Log - click here to see my progress](Log.md)
