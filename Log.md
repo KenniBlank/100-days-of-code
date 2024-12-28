@@ -58,6 +58,11 @@ In learning algorithms, I am learning notations right now.
 
 **Thoughts**: Not much actually, I am still researching my future down the road. Yo
 
+### Day 7: December 28
+**Today's Progress**: Today I am genuinly happy with my progress. I started a course on probability which I need knowledge on for a fellowship that I want to apply for. Finally started fullstack from fullstackopen. Currently, I have completed module 1 of the probability course and am on part-0 fundamentals of fullstack. I am learning new terms and now I have also decided to use unity to create a game of my own spending 1 to 2 hrs daily just for fun. I am going to be using unity 2023 version because I hate the new Input manager and new scripting changes.
+
+**Thoughts**: I have finally decided on the track foreward in this 100 days of code challenge. Sure there will be few changes here and there but I am content with what I have accomplished today. I will continue to learn algorithms, rust, fullstack, game dev, mathematics, etc. I am reaching to all fields because I want to explore and because I have more that enough time right now. I am lucky in that regards. Hopefully my joy will last for the rest of the days. Bye!
+
 ## Contents
 - [Log - click here to see my progress](Log.md)
 - [My Rules](Rules.md)
