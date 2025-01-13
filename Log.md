@@ -63,6 +63,16 @@ In learning algorithms, I am learning notations right now.
 
 **Thoughts**: I have finally decided on the track foreward in this 100 days of code challenge. Sure there will be few changes here and there but I am content with what I have accomplished today. I will continue to learn algorithms, rust, fullstack, game dev, mathematics, etc. I am reaching to all fields because I want to explore and because I have more that enough time right now. I am lucky in that regards. Hopefully my joy will last for the rest of the days. Bye!
 
+### Day 8: December 29
+**Today's Progress**: I have completed the fullstackopen course's part 0. I have learned the basics of html css js and what I can expect from the course. I was able to understand how server and browser communicate. I am currently on the exercise part and am learning the mermaid syntax to complete the first exercise. 
+
+**Thoughts**: Not a bad day. Got the basics down and I am moving at my own pace in this course which is fun. Learned about all the things I need to get started properly. Let tomorrow be another sunny day!
+
+### Day 9: December 30
+**Today's Progress**: Completed the Part 0's all exercises. Also finished part1's first chapter where I learned React and have begun to learn JavaScript ES6 version for the course. Completed Part-1's first chapter's all exercises. Am on part-1's chapter 2's exercise right now after having had completed the chapter. 
+
+**Today's Thoughts**: Woke up late but still was able to catch up quick.
+
 ## Contents
 - [Log - click here to see my progress](Log.md)
 - [My Rules](Rules.md)
